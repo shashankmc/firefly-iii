@@ -816,6 +816,7 @@ return [
     'language'                                => 'Language',
     'new_savings_account'                     => ':bank_name savings account',
     'cash_wallet'                             => 'Cash wallet',
+    'currency_missing_note'                   => 'Note: If your desired currency is not available in the list, please navigate to Options on the management panel and create a new currency.'
 
     // home page:
     'yourAccounts'                            => 'Your accounts',
